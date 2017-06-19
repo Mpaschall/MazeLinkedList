@@ -1,0 +1,6 @@
+c:\users\xdark\documents\visual studio 2015\Projects\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Users\xdark\Documents\Visual Studio 2015\Projects\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\xdark\Documents\Visual Studio 2015\Projects\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\xdark\Documents\Visual Studio 2015\Projects\Maze\Maze\obj\Debug\Maze.csprojResolveAssemblyReference.cache
+C:\Users\xdark\Documents\Visual Studio 2015\Projects\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\xdark\Documents\Visual Studio 2015\Projects\Maze\Maze\obj\Debug\Maze.pdb
